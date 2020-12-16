@@ -11,7 +11,6 @@
 
 ⚡ - **Hobbies :**  :airplane: Travelling :camera: Photography :baseball: Cricket
 
----
 
 ### Languages & Tools : 
 **C++ | HTML5 | CSS3 | JavaScript (ES6) | BootStrap 5 | React | VS Code | Git | GitHub** 
