@@ -13,7 +13,7 @@
 
 
 ### Languages & Tools : 
- **C++ | HTML5 | CSS3 | JavaScript (ES6) | BootStrap 5 | React | VS Code | Git | GitHub** 
+ **C++ | HTML5 | CSS3 | JavaScript (ES6) | BootStrap 5 | React JS | Firebase | Node JS | VS Code | Git | GitHub** 
 
 <!--
 **Evergreen07/Evergreen07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
