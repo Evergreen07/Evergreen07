@@ -1,13 +1,13 @@
 ### Hi there, myself Arunava Dutta 👋
-### ***A Student, a Programmer enthusiastic in Full-Stack & Android development***
+### ***A Student, a Programmer enthusiastic in Full-Stack & Mobile App development***
 
 - 🔭 - I’m currently working on :beginner: *Front-End Design & Development*, along with mastering :computer: *Data Structures & Algorithms*.
 
 - 🌱 - I’m currently learning :wrench: *Backend Development*.
 
-- 🤝 - I’m looking to collaborate in :bulb: *Open-Source Projects* :memo: *Freelancing*.
+- 🤝 - I’m looking to collaborate in :bulb: *Open-Source Projects* :memo: *Internships & Freelancing*.
 
-- :clipboard: - **Future Goals :** :iphone: *Android Development*.
+- :clipboard: - **Future Goals :** :iphone: *Mobile App Development*.
 
 - ⚡ - **Hobbies :**  :airplane: Travelling :camera: Photography :baseball: Cricket
 
