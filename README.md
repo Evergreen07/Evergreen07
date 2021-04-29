@@ -1,5 +1,5 @@
 ### Hi there, myself Arunava Dutta 👋
-### ***A Student, a Programmer enthusiastic in Full-Stack & Mobile App development***
+### ***A Student, a Programmer enthusiastic in Full-Stack Web & Mobile App development***
 
 - 🔭 - I’m currently working on :beginner: *Front-End Design & Development*, along with mastering :computer: *Data Structures & Algorithms*.
 
@@ -13,7 +13,7 @@
 
 
 ### Languages & Tools : 
- **C++ | HTML5 | CSS3 | JavaScript (ES6) | React JS | Firebase | Node JS | BootStrap 5 | VS Code | Git | GitHub** 
+ **C++ | HTML5 | CSS3 | JavaScript (ES6) | React JS | Node JS | Express JS | MongoDB | Firebase | BootStrap | VS Code | Git | GitHub** 
 
 <!--
 **Evergreen07/Evergreen07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
