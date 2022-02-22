@@ -13,7 +13,7 @@
 
 
 ### Languages & Tools : 
- **C++ | HTML5 | CSS3 | JavaScript (ES6)** 
+ **C++ | HTML5 | CSS3 | JavaScript (ES6) | ** 
  **React JS | Node JS | Express JS | MongoDB | Web Sockets | Socket.io | Firebase | BootStrap**
 
 <!--
